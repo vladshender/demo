@@ -1,3 +1,7 @@
 git checkout -b ім'я_гілки база (необов'зково)
 vi comands.txt
+
 Hello world!
+
+
+
